@@ -12,7 +12,7 @@ $books = Product::fetchAll('books_db', 'Book');
         <h2>Movies</h2>
         <div class="row">
             <?php foreach ($movies as $movie) {
-                echo $movie->printCard($movie->formatItem());
+                $movie->printCard($movie->formatItem());
             } ?>
         </div>
     </section>
@@ -20,7 +20,7 @@ $books = Product::fetchAll('books_db', 'Book');
         <h2>Books</h2>
         <div class="row">
             <?php foreach ($books as $book) {
-                echo $book->printCard($book->formatItem());
+                $book->printCard($book->formatItem());
             } ?>
         </div>
     </section>
