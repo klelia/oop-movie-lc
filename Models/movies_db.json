@@ -1,0 +1,104 @@
+ [
+        {
+            "id": 9381,
+            "language": "en",
+            "overview": "A veteran-turned-mercenary is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",
+            "title": "Babylon A.D.",
+            "rating": 5.601,
+            "category": "Action"
+        },
+        {
+            
+            "id": 1147400,
+            "language": "fr",
+            "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/A46SghdyD9y7qQUxB5zOslospJ7.jpg",    
+            "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",           
+            "rating": 6.935,
+            "category": "Action"
+        },
+        {
+            "id": 507089,
+            "language": "en",           
+            "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/j9mH1pr3IahtraTWxVEMANmPSGR.jpg",
+            "title": "Five Nights at Freddy's", 
+            "rating": 6.935,                      
+            "category": "Action"
+        },
+        {
+            "id": 833326,
+            "language": "fr",            
+            "overview": "Cassandre, 26, is a flight attendant for a low-cost airline. Based in Lanzarote, she’s always willing to take on extra hours and carries out her duties with robotic efficiency. On the side, she just goes with the flow and floats between Tinder, parties and lazy days. When she suddenly gets dismissed, she is forced to return home.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/wLZ5jijVpOxHuBLmsICKLXwlldu.jpg",           
+            "title": "Zero Fucks Given",            
+            "rating": 6.417,
+            "category": "Action"
+        },
+        {
+            "id": 461191,
+            "language": "en",           
+            "overview": "A young alcoholic ambient musician locks himself in his apartment on a dangerous seven day bender as he attempts to finish his upcoming album.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/4uOKZzRB615cIxcVi31pcsdFtSS.jpg",
+            "title": "A",
+            "rating": 7.19,
+            "category": "Action"
+        },
+        {
+            "id": 24791,
+            "language": "ja",
+            "overview": "Roughly chronological, from 3/96 to 11/96, with a coda in spring of 1997: inside compounds of Aum Shinrikyo, a Buddhist sect led by Shoko Asahara. (Members confessed to a murderous sarin attack in the Tokyo subway in 1995.) We see what they eat, where they sleep, and how they respond to media scrutiny, on-going trials, the shrinking of their fortunes, and the criticism of society. Central focus is placed on Hiroshi Araki, a young man who finds himself elevated to chief spokesman for Aum after its leaders are arrested. Araki faces extreme hostility from the Japanese public, who find it hard to believe that most followers of the cult had no idea of the attacks and even harder to understand why these followers remain devoted to the religion, if not the violence.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/dBLzrfh5DtxJey1hOYZaN2drPe3.jpg",
+            "title": "A",
+            "rating": 6.189,
+            "category": "Action"
+        },
+        {
+            "id": 978870,
+            "language": "it",
+            "overview": "On the night before his retirement, police lieutenant Franco Amore is called to investigate the death of a long-time partner of his in a diamond heist in which he was involved.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg",
+            "title": "Last Night of Amore",
+            "rating": 7.22,
+            "category": "Action"
+        },
+        {
+            "id": 915935,
+            "language": "fr",
+            "overview": "A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+            "title": "Anatomy of a Fall",
+            "rating": 7.83,
+            "category": "Action"
+        },
+        {
+            "id": 1179664,
+            "language": "es",
+            "overview": "Eccentric millionaire Olivia sends her half sister Agatha, and a group of old acquaintances, a mysterious invitation for a weekend on her yacht, where they will discover the true motive behind this invitation: the celebration of… a murder?",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/1IFdWd7ykl0yHqKid9Mm7TTIDSK.jpg",
+            "title": "A Deadly Invitation",
+            "rating": 5.898,
+            "category": "Action"
+        },
+        {
+            "id": 116776,
+            "language": "ja",
+            "overview": "Master Roshi has succeeded at the one mission he valued most: to train Goku and Krillin to become ultimate fighters. So, he arranges for them to test their mettle at a competition hosted by Emperor Chiaotzu. Not everyone's playing by the rules, however, as a member of the ruler's household schemes to use the Dragonballs to extort money and power from the royal.",
+            "price": 19.99,
+            "cover": "https://image.tmdb.org/t/p/w342/5aXG0B3TYTpQsodXzvYCkKQfpB1.jpg",
+            "title": "Dragon Ball: Mystical Adventure",
+            "rating": 6.756,
+            "category": "Action"
+        }
+        
+    ]
