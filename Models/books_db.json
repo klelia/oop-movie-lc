@@ -227,6 +227,7 @@
     "status": "PUBLISH",
     "authors": ["Michael J. Barlotta", "Jason R. Weiss"],
     "category": "PowerBuilder"
+    
 }, {
     "id": 21,
     "title": "3D User Interfaces with Java 3D",

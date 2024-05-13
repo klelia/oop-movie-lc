@@ -1,7 +1,9 @@
 <?php
 include_once __DIR__ . '/Category.php';
+include_once __DIR__ . '/../Traits/DrawCard.php';
 abstract class Product
 {
+    use DrawCard;
     protected int $id;
     protected string $title;
     protected Category $category;
@@ -52,9 +54,5 @@ abstract class Product
         return $books;
     }
 
-    public function printCard($item)
-    {
-        extract($item);
-        include __DIR__ . '/../Views/card.php';
-    }
+
 }
